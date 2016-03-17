@@ -1,0 +1,2413 @@
+{"followers": [{
+  "placeName": "Maidenhead, Windsor and Maidenhead, UK",
+  "location": "Maidenhead",
+  "created": "2009-06-23T08:55:35",
+  "tweets": 7,
+  "profileName": "Phil McMichael",
+  "friends": 149,
+  "geo": false,
+  "coordinates": [51.522414, -0.7219]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-12-17T13:16:05",
+  "tweets": 3,
+  "profileName": "Barnoir",
+  "friends": 287,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-12-16T04:52:32",
+  "tweets": 0,
+  "profileName": "VENKATESH WARAN. A",
+  "friends": 143,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "United Kingdom",
+  "location": "United Kingdom",
+  "created": "2013-09-04T12:28:55",
+  "tweets": 831,
+  "profileName": "sync-box",
+  "friends": 4999,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-07-16T10:08:22",
+  "tweets": 5,
+  "profileName": "Duncan Edwards",
+  "friends": 83,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "St Louis, MO, USA",
+  "location": "St. Louis, MO",
+  "created": "2009-04-10T02:23:07",
+  "tweets": 838,
+  "profileName": "Walters Web Design",
+  "friends": 135660,
+  "geo": false,
+  "coordinates": [38.6270025, -90.19940419999999]
+}, {
+  "placeName": "Roundhay, Leeds, Leeds, West Yorkshire, UK",
+  "location": "Roundhay, Leeds, England",
+  "created": "2015-10-07T11:13:21",
+  "tweets": 238,
+  "profileName": "roundhayhour",
+  "friends": 166,
+  "geo": false,
+  "coordinates": [53.8305812, -1.5073744]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-04-13T09:29:22",
+  "tweets": 410,
+  "profileName": "Aagrah Garforth",
+  "friends": 1460,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-04-27T20:51:55",
+  "tweets": 0,
+  "profileName": "Behrukh Avramovic",
+  "friends": 3725,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-11-06T04:03:56",
+  "tweets": 15540,
+  "profileName": "AnnMSherman",
+  "friends": 1676,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-09-22T14:32:38",
+  "tweets": 0,
+  "profileName": "Hari A",
+  "friends": 149,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Silicon Valley, CA, USA",
+  "location": "Silicon Valley, CA",
+  "created": "2010-12-10T22:07:55",
+  "tweets": 568,
+  "profileName": "Nesora",
+  "friends": 5001,
+  "geo": false,
+  "coordinates": [37.387474, -122.0575434]
+}, {
+  "placeName": "Halifax, West Yorkshire, UK",
+  "location": "Halifax West Yorkshire",
+  "created": "2011-06-27T21:09:10",
+  "tweets": 801,
+  "profileName": "Paul Robinson",
+  "friends": 312,
+  "geo": true,
+  "coordinates": [53.72702, -1.85754]
+}, {
+  "placeName": "Newcastle upon Tyne, Tyne and Wear, UK",
+  "location": "Newcastle-upon-Tyne",
+  "created": "2010-10-28T14:25:16",
+  "tweets": 152,
+  "profileName": "Bang & Olufsen",
+  "friends": 301,
+  "geo": true,
+  "coordinates": [54.978252, -1.61778]
+}, {
+  "placeName": "London, UK",
+  "location": "London, England",
+  "created": "2014-04-14T15:07:37",
+  "tweets": 39063,
+  "profileName": "#iLoveHour",
+  "friends": 3487,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "No Location",
+  "location": "info@rischegroup.co.uk",
+  "created": "2010-09-21T12:05:37",
+  "tweets": 1469,
+  "profileName": "rischegroup",
+  "friends": 926,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-10-09T09:06:13",
+  "tweets": 11416,
+  "profileName": "Dorothy K. Park",
+  "friends": 260,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Pateley Bridge, Harrogate, North Yorkshire HG3, UK",
+  "location": "Pateley Bridge, Harrogate, UK",
+  "created": "2009-07-15T15:49:26",
+  "tweets": 534,
+  "profileName": "Alister Colley  ",
+  "friends": 1380,
+  "geo": false,
+  "coordinates": [54.0859366, -1.7606929]
+}, {
+  "placeName": "San Diego, CA, USA",
+  "location": "San Diego, California ",
+  "created": "2014-09-23T20:09:05",
+  "tweets": 222,
+  "profileName": "Vacation Fulfilment",
+  "friends": 1294,
+  "geo": false,
+  "coordinates": [32.715738, -117.1610838]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds | Yorkshire",
+  "created": "2010-10-17T17:53:47",
+  "tweets": 5648,
+  "profileName": "Yorkshire Escorts",
+  "friends": 475,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-11-06T15:16:34",
+  "tweets": 56,
+  "profileName": "JCT600 Aston Martin",
+  "friends": 302,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Essex, UK",
+  "location": "Essex, UK",
+  "created": "2012-06-04T20:04:23",
+  "tweets": 123,
+  "profileName": "Cine Italia Seating",
+  "friends": 571,
+  "geo": false,
+  "coordinates": [51.7343313, 0.4690888]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-08-01T20:40:54",
+  "tweets": 2,
+  "profileName": "LeedsFashionFestival",
+  "friends": 303,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK",
+  "created": "2009-11-23T12:08:40",
+  "tweets": 2185,
+  "profileName": "Oulton Hall",
+  "friends": 600,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2010-05-25T20:41:37",
+  "tweets": 14415,
+  "profileName": "Primo's",
+  "friends": 13614,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2009-02-10T12:22:52",
+  "tweets": 5209,
+  "profileName": "Andrew Walker",
+  "friends": 130,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-10-31T09:42:17",
+  "tweets": 0,
+  "profileName": "Venkatesh A",
+  "friends": 159,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Singapore",
+  "location": "Singapore",
+  "created": "2010-07-12T07:44:28",
+  "tweets": 272,
+  "profileName": "MATTERLINK",
+  "friends": 1881,
+  "geo": true,
+  "coordinates": [1.352083, 103.819836]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2015-07-31T12:08:47",
+  "tweets": 507,
+  "profileName": "Bentley Leeds",
+  "friends": 276,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "\u00dcT: 53.798684,-1.563729",
+  "created": "2010-03-14T13:55:45",
+  "tweets": 7,
+  "profileName": "Speight666",
+  "friends": 1194,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Scottsdale, AZ, USA",
+  "location": "Scottsdale, AZ",
+  "created": "2011-06-07T15:31:28",
+  "tweets": 9817,
+  "profileName": "#aarongagnonproblems",
+  "friends": 119718,
+  "geo": true,
+  "coordinates": [33.4941704, -111.9260519]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-05-10T13:22:39",
+  "tweets": 3451,
+  "profileName": "Rukan Jacobssen",
+  "friends": 917,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Yorkshire, VA, USA",
+  "location": "Yorkshire",
+  "created": "2009-03-02T16:56:16",
+  "tweets": 7253,
+  "profileName": "Helena Fay",
+  "friends": 501,
+  "geo": true,
+  "coordinates": [38.7931699, -77.44776619999999]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-07-26T21:35:50",
+  "tweets": 15,
+  "profileName": "Max Nicholls",
+  "friends": 46,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Scarborough, North Yorkshire, UK",
+  "location": "Scarborough, England",
+  "created": "2012-09-30T19:59:51",
+  "tweets": 1318,
+  "profileName": "Paul Bell",
+  "friends": 545,
+  "geo": true,
+  "coordinates": [54.283113, -0.399752]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-01-20T02:40:00",
+  "tweets": 1196,
+  "profileName": "naiara",
+  "friends": 1474,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-09-04T14:24:32",
+  "tweets": 5,
+  "profileName": "RBA",
+  "friends": 119,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "Leeds & beyond",
+  "created": "2013-02-01T12:21:21",
+  "tweets": 569,
+  "profileName": "beatfood",
+  "friends": 1387,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "Harrogate, England",
+  "created": "2015-05-23T17:17:00",
+  "tweets": 509,
+  "profileName": "keep me magazine \u2764\ufe0f",
+  "friends": 11497,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "Rochester, England",
+  "created": "2009-06-29T20:43:42",
+  "tweets": 1403,
+  "profileName": "Rako Controls",
+  "friends": 467,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "468 Roundhay Road, Leeds, West Yorkshire LS8 2HU, UK",
+  "location": "468 roundhay Road, leeds",
+  "created": "2013-08-04T15:16:51",
+  "tweets": 2137,
+  "profileName": "Preston, Oakwood",
+  "friends": 1094,
+  "geo": false,
+  "coordinates": [53.82665350000001, -1.5059712]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-04-29T13:59:29",
+  "tweets": 12,
+  "profileName": "EPLocksmiths ",
+  "friends": 558,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Harrogate, North Yorkshire, UK",
+  "location": "Harrogate",
+  "created": "2010-04-19T11:04:47",
+  "tweets": 6697,
+  "profileName": "Great Yorkshire Show",
+  "friends": 9728,
+  "geo": false,
+  "coordinates": [53.99212, -1.541812]
+}, {
+  "placeName": "Harrogate, North Yorkshire, UK",
+  "location": "Harrogate, England",
+  "created": "2009-09-11T09:41:00",
+  "tweets": 6708,
+  "profileName": "Fodder",
+  "friends": 7621,
+  "geo": true,
+  "coordinates": [53.99212, -1.541812]
+}, {
+  "placeName": "Castleford, West Yorkshire, UK",
+  "location": "Castleford, England",
+  "created": "2015-07-31T17:40:30",
+  "tweets": 448,
+  "profileName": "Bright Utilities",
+  "friends": 2033,
+  "geo": false,
+  "coordinates": [53.72346599999999, -1.345968]
+}, {
+  "placeName": "Orange County, CA, USA",
+  "location": "Orange County",
+  "created": "2012-10-16T17:45:21",
+  "tweets": 501,
+  "profileName": "Amber Blasquez",
+  "friends": 1767,
+  "geo": false,
+  "coordinates": [33.7174708, -117.8311428]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2009-03-26T20:29:21",
+  "tweets": 17809,
+  "profileName": "Ben Dalrymple",
+  "friends": 1173,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-07-19T13:01:37",
+  "tweets": 4,
+  "profileName": "Volt Aire",
+  "friends": 152,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-07-10T11:12:14",
+  "tweets": 3,
+  "profileName": "\u0e2a\u0e21\u0e0a\u0e31\u0e22 \u0e01\u0e25\u0e34\u0e48\u0e19\u0e2a\u0e31\u0e01\u0e42\u0e01",
+  "friends": 248,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Knaresborough, North Yorkshire, UK",
+  "location": "Knaresborough, North Yorkshire",
+  "created": "2015-01-16T16:26:43",
+  "tweets": 623,
+  "profileName": "The Blue Bell",
+  "friends": 1079,
+  "geo": true,
+  "coordinates": [54.011022, -1.47102]
+}, {
+  "placeName": "London Rd, South Milford, Leeds, North Yorkshire LS25 5DP, UK",
+  "location": "London/Leeds",
+  "created": "2011-09-10T17:15:35",
+  "tweets": 2192,
+  "profileName": "Vikas Verma",
+  "friends": 996,
+  "geo": true,
+  "coordinates": [53.7730148, -1.2496171]
+}, {
+  "placeName": "Harrogate, North Yorkshire, UK",
+  "location": "Harrogate",
+  "created": "2009-10-05T19:19:58",
+  "tweets": 12999,
+  "profileName": "HarrogatePromo",
+  "friends": 16486,
+  "geo": false,
+  "coordinates": [53.99212, -1.541812]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-07-15T18:25:42",
+  "tweets": 257,
+  "profileName": "Simon Rosenstone",
+  "friends": 140,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2009-03-03T21:58:19",
+  "tweets": 290,
+  "profileName": "Charlotte Murray",
+  "friends": 232,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, West Yorkshire",
+  "created": "2013-08-08T10:30:11",
+  "tweets": 119,
+  "profileName": "David Cataroche",
+  "friends": 1999,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "leeds",
+  "created": "2011-05-22T18:45:26",
+  "tweets": 2833,
+  "profileName": "Luke",
+  "friends": 302,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "United Kingdom",
+  "location": "United Kingdom",
+  "created": "2013-05-01T18:38:09",
+  "tweets": 472,
+  "profileName": "Screen Excellence",
+  "friends": 1770,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-02-19T19:38:35",
+  "tweets": 51,
+  "profileName": "oneflowlabs",
+  "friends": 166,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Holme-on-Spalding-Moor, York, East Riding of Yorkshire YO43, UK",
+  "location": "Holme-on-Spalding-Moor",
+  "created": "2015-06-23T18:55:57",
+  "tweets": 24,
+  "profileName": "Bang & Olufsen York",
+  "friends": 775,
+  "geo": false,
+  "coordinates": [53.8357396, -0.7774072]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, United Kingdom",
+  "created": "2008-09-22T11:58:13",
+  "tweets": 225,
+  "profileName": "Meggerz0203",
+  "friends": 33,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-06-15T13:31:54",
+  "tweets": 4726,
+  "profileName": "Michael",
+  "friends": 1347,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Dartmouth, Devon, UK",
+  "location": "Dartmouth - Devon UK",
+  "created": "2010-07-15T20:08:33",
+  "tweets": 35,
+  "profileName": "Dartmouth AV",
+  "friends": 70,
+  "geo": false,
+  "coordinates": [50.352517, -3.578807]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-02-02T08:05:18",
+  "tweets": 0,
+  "profileName": "Satish  Sinhal",
+  "friends": 4,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2010-01-05T11:34:33",
+  "tweets": 1,
+  "profileName": "Gy\u00f6rgy Mak\u00f3",
+  "friends": 422,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-05-19T14:59:05",
+  "tweets": 103,
+  "profileName": "Bang_kingston",
+  "friends": 68,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-05-19T15:04:15",
+  "tweets": 94,
+  "profileName": "Bang_canarywharf",
+  "friends": 75,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "West Yorkshire, UK",
+  "location": "West Yorkshire",
+  "created": "2015-02-12T17:25:29",
+  "tweets": 83,
+  "profileName": "Riva Homes",
+  "friends": 96,
+  "geo": true,
+  "coordinates": [53.81081760000001, -1.76261]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-05-08T06:40:04",
+  "tweets": 2,
+  "profileName": "JC Dartois",
+  "friends": 25,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-11-30T09:35:50",
+  "tweets": 244,
+  "profileName": "Signs Express Leeds",
+  "friends": 157,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "London, UK",
+  "location": "London, England",
+  "created": "2015-05-05T08:19:11",
+  "tweets": 7,
+  "profileName": "Transform AV ",
+  "friends": 419,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "No Location",
+  "location": "Tarleton and Fulwood  ",
+  "created": "2011-05-14T11:09:14",
+  "tweets": 52,
+  "profileName": "Bernard Dickinson",
+  "friends": 149,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Humber Bridge, Hessle, East Riding of Yorkshire HU13, UK",
+  "location": "Yorkshire and The Humber",
+  "created": "2015-05-14T08:27:55",
+  "tweets": 210,
+  "profileName": "JCT600 Careers",
+  "friends": 312,
+  "geo": true,
+  "coordinates": [53.7201173, -0.4518752]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK.",
+  "created": "2013-02-27T21:40:26",
+  "tweets": 11,
+  "profileName": "Simon",
+  "friends": 330,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-03-03T07:32:57",
+  "tweets": 1619,
+  "profileName": "Rosie O'Brien",
+  "friends": 923,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Worldwide House, Thorpe Wood, Peterborough, Peterborough PE3 6SB, UK",
+  "location": "Worldwide",
+  "created": "2014-04-10T06:45:06",
+  "tweets": 6087,
+  "profileName": "StartupsTheater",
+  "friends": 109637,
+  "geo": false,
+  "coordinates": [52.57083129999999, -0.3006158]
+}, {
+  "placeName": "Wetherby, Wetherby, West Yorkshire LS22, UK",
+  "location": "Wetherby, West Yorkshire",
+  "created": "2012-03-14T14:07:24",
+  "tweets": 6636,
+  "profileName": "Phillip Allum",
+  "friends": 7010,
+  "geo": true,
+  "coordinates": [53.92705600000001, -1.384816]
+}, {
+  "placeName": "Wetherby, Wetherby, West Yorkshire LS22, UK",
+  "location": "Wetherby, West Yorkshire",
+  "created": "2012-05-03T13:41:20",
+  "tweets": 5827,
+  "profileName": "TGE Solutions",
+  "friends": 4999,
+  "geo": false,
+  "coordinates": [53.92705600000001, -1.384816]
+}, {
+  "placeName": "65 Marylebone High St, Marylebone, London W1U 5JE, UK",
+  "location": "65 Marylebone High Street, W1",
+  "created": "2014-12-29T17:44:50",
+  "tweets": 155,
+  "profileName": "Bang & Olufsen",
+  "friends": 1604,
+  "geo": true,
+  "coordinates": [51.5218132, -0.151871]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK ",
+  "created": "2012-01-31T21:17:29",
+  "tweets": 3390,
+  "profileName": "Dwell Leeds",
+  "friends": 2227,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2010-02-02T20:03:18",
+  "tweets": 578,
+  "profileName": "Extreme Lounging",
+  "friends": 1152,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "West Sedona, Sedona, AZ 86336, USA",
+  "location": "West Sedona, United States",
+  "created": "2013-09-18T01:30:08",
+  "tweets": 3,
+  "profileName": "Tamesha Wood",
+  "friends": 2068,
+  "geo": false,
+  "coordinates": [34.8672398, -111.8054345]
+}, {
+  "placeName": "Halifax, West Yorkshire, UK",
+  "location": "Halifax, West Yorkshire, UK",
+  "created": "2009-06-09T09:34:36",
+  "tweets": 59525,
+  "profileName": "Anees Younis",
+  "friends": 1205,
+  "geo": true,
+  "coordinates": [53.72702, -1.85754]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2015-04-29T13:30:08",
+  "tweets": 1500,
+  "profileName": "LeedsBID",
+  "friends": 1629,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Lake Park, GA 31636, USA",
+  "location": "Lake Park city, GA, USA",
+  "created": "2014-12-30T05:48:07",
+  "tweets": 45,
+  "profileName": "Love Martinez",
+  "friends": 2443,
+  "geo": false,
+  "coordinates": [30.6846637, -83.1828732]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-04-23T20:45:16",
+  "tweets": 106,
+  "profileName": "tittyagram",
+  "friends": 1982,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Bradford, West Yorkshire, UK",
+  "location": "Bradford, Yorkshire, UK",
+  "created": "2011-09-25T17:48:44",
+  "tweets": 4971,
+  "profileName": "Yorkshire Network",
+  "friends": 17638,
+  "geo": true,
+  "coordinates": [53.795984, -1.759398]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-04-04T23:32:51",
+  "tweets": 551043,
+  "profileName": "AutoSports Art",
+  "friends": 73369,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-04-24T06:37:04",
+  "tweets": 1,
+  "profileName": "Daniel Wilson",
+  "friends": 161,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Yorkshire St, Rochdale, Rochdale, UK",
+  "location": "Yorkshire, England",
+  "created": "2011-05-08T17:23:52",
+  "tweets": 9335,
+  "profileName": "Adam McCartney",
+  "friends": 3056,
+  "geo": false,
+  "coordinates": [53.6204416, -2.1525678]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-09-10T21:53:05",
+  "tweets": 220,
+  "profileName": "Mehrdad ",
+  "friends": 81,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-02-01T17:28:47",
+  "tweets": 85,
+  "profileName": "Fox Electrical",
+  "friends": 668,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "United Kingdom",
+  "location": "North West, UK",
+  "created": "2011-05-20T16:08:15",
+  "tweets": 6684,
+  "profileName": "Kay Johnson Gee",
+  "friends": 3368,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "London, UK",
+  "location": "London, UK",
+  "created": "2009-05-25T11:54:49",
+  "tweets": 54070,
+  "profileName": "The Sport Review",
+  "friends": 35386,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-04-17T23:37:02",
+  "tweets": 0,
+  "profileName": "Skynnexav",
+  "friends": 160,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "United Kingdom",
+  "location": "#UK",
+  "created": "2009-07-01T20:20:23",
+  "tweets": 86537,
+  "profileName": "Coral Keers",
+  "friends": 3603,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2013-01-23T11:08:59",
+  "tweets": 35737,
+  "profileName": "#iLoveLeeds",
+  "friends": 3038,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "London, UK",
+  "location": "London, England",
+  "created": "2010-12-10T16:20:51",
+  "tweets": 80807,
+  "profileName": "MODE\u2122 for Luxury",
+  "friends": 6841,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-12-18T09:38:29",
+  "tweets": 21,
+  "profileName": "@Michaele_Pulse",
+  "friends": 472,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Keighley, Keighley, West Yorkshire, UK",
+  "location": "Keighley, West Yorkshire",
+  "created": "2015-04-10T22:12:10",
+  "tweets": 28,
+  "profileName": "Pat Testing",
+  "friends": 1302,
+  "geo": false,
+  "coordinates": [53.867795, -1.912358]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2010-01-31T00:41:03",
+  "tweets": 0,
+  "profileName": "TL",
+  "friends": 230,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-04-11T10:27:45",
+  "tweets": 21,
+  "profileName": "Steve Hatfield",
+  "friends": 1780,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "trinity, 13 Albion St, Leeds, West Yorkshire LS1 5ER, UK",
+  "location": "Trinity, Leeds",
+  "created": "2014-12-01T14:58:21",
+  "tweets": 1278,
+  "profileName": "Pintura Kitchen",
+  "friends": 1590,
+  "geo": true,
+  "coordinates": [53.7968245, -1.5458117]
+}, {
+  "placeName": "Manchester, UK",
+  "location": "Manchester, England",
+  "created": "2009-06-30T18:59:49",
+  "tweets": 1055,
+  "profileName": "Benjamin Kennedy",
+  "friends": 1901,
+  "geo": true,
+  "coordinates": [53.4807593, -2.2426305]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-09-04T17:28:22",
+  "tweets": 141,
+  "profileName": "kanisyabu",
+  "friends": 190,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK",
+  "created": "2011-09-21T08:47:04",
+  "tweets": 7477,
+  "profileName": "Made in Leeds TV",
+  "friends": 1698,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds,David Lloyd,01132668872",
+  "created": "2015-03-12T12:16:12",
+  "tweets": 114,
+  "profileName": "Saks Beauty Leeds",
+  "friends": 829,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Harvey Rd, Nichols, SC 29581, USA",
+  "location": "Harvey Nichols",
+  "created": "2013-07-11T17:35:30",
+  "tweets": 1370,
+  "profileName": "Beyond Medispa",
+  "friends": 2010,
+  "geo": true,
+  "coordinates": [34.2735592, -79.1723635]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, United Kingdom",
+  "created": "2010-10-02T16:28:25",
+  "tweets": 3803,
+  "profileName": "Christopher Smith",
+  "friends": 304,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, West Yorkshire",
+  "created": "2014-03-23T13:26:41",
+  "tweets": 3445,
+  "profileName": "margaret cliff",
+  "friends": 1226,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds UK",
+  "created": "2010-11-17T17:26:10",
+  "tweets": 29520,
+  "profileName": "VictoriaQuarter",
+  "friends": 12019,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Mayfair, London, UK",
+  "location": "Mayfair | London | UK",
+  "created": "2011-04-03T17:21:32",
+  "tweets": 2817,
+  "profileName": "iFavour  \u00ae",
+  "friends": 839,
+  "geo": false,
+  "coordinates": [51.5116269, -0.147806]
+}, {
+  "placeName": "ISTC Workshop, Block D, Sector 30, Chandigarh, Chandigarh 160030, India",
+  "location": "In the cable workshop",
+  "created": "2012-05-14T17:06:59",
+  "tweets": 34,
+  "profileName": "Sounds Heavenly",
+  "friends": 81,
+  "geo": false,
+  "coordinates": [30.7154231, 76.78116940000001]
+}, {
+  "placeName": "City Centre Loop, Leeds, West Yorkshire LS2 7RD, UK",
+  "location": "Leeds City Center",
+  "created": "2015-03-18T19:24:22",
+  "tweets": 16,
+  "profileName": "Phone Buddys",
+  "friends": 929,
+  "geo": false,
+  "coordinates": [53.7988171, -1.5360982]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-02-04T14:55:37",
+  "tweets": 2132,
+  "profileName": "Peter Alloway",
+  "friends": 586,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Cambridge, Cambridge, UK",
+  "location": "Cambridge, England",
+  "created": "2013-03-29T20:36:29",
+  "tweets": 275,
+  "profileName": "Adrian Ickeringill",
+  "friends": 1004,
+  "geo": false,
+  "coordinates": [52.205337, 0.121817]
+}, {
+  "placeName": "Swindon, Swindon, Swindon, UK",
+  "location": "Swindon, Wiltshire",
+  "created": "2013-06-11T09:50:28",
+  "tweets": 35,
+  "profileName": "Louise Cattelona",
+  "friends": 1210,
+  "geo": false,
+  "coordinates": [51.55577390000001, -1.7797176]
+}, {
+  "placeName": "No Location",
+  "location": "WyreStorm",
+  "created": "2015-03-04T13:50:11",
+  "tweets": 49,
+  "profileName": "James Meredith",
+  "friends": 923,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-01-06T02:39:10",
+  "tweets": 1,
+  "profileName": "Chris Goodall",
+  "friends": 14,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "leeds",
+  "created": "2014-11-23T12:49:40",
+  "tweets": 2,
+  "profileName": "MDR Electrical ",
+  "friends": 15,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-12-25T03:56:20",
+  "tweets": 885,
+  "profileName": "Aremo Olatunde",
+  "friends": 810,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Yorkshire, VA, USA",
+  "location": "Yorkshire",
+  "created": "2012-06-21T21:29:27",
+  "tweets": 218,
+  "profileName": "Louise Hinchliffe",
+  "friends": 536,
+  "geo": true,
+  "coordinates": [38.7931699, -77.44776619999999]
+}, {
+  "placeName": "Kampala, Uganda",
+  "location": "Kampala, Uganda",
+  "created": "2015-02-22T14:54:43",
+  "tweets": 1,
+  "profileName": "Jos\u00e9 Jo\u00e3o Meyer",
+  "friends": 104,
+  "geo": false,
+  "coordinates": [0.3475964, 32.5825197]
+}, {
+  "placeName": "Wilmslow, Cheshire East, UK",
+  "location": "Wilmslow, Cheshire",
+  "created": "2010-09-27T14:40:14",
+  "tweets": 943,
+  "profileName": "B&O of Wilmslow",
+  "friends": 887,
+  "geo": true,
+  "coordinates": [53.328, -2.229409]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2014-07-23T19:17:34",
+  "tweets": 220,
+  "profileName": "Stableford's",
+  "friends": 527,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Leeds Bradford Airport (LBA), Whitehouse Ln, Yeadon, Leeds, West Yorkshire LS19 7TU, UK",
+  "location": "Leeds Bradford Airport",
+  "created": "2015-02-04T20:59:03",
+  "tweets": 195,
+  "profileName": "LBA Advertising",
+  "friends": 758,
+  "geo": false,
+  "coordinates": [53.86794339999999, -1.6615306]
+}, {
+  "placeName": "Dallas, TX, USA",
+  "location": "Dallas, TX",
+  "created": "2009-03-01T05:44:34",
+  "tweets": 8764,
+  "profileName": "Digital Mom Blog",
+  "friends": 13961,
+  "geo": true,
+  "coordinates": [32.7766642, -96.79698789999999]
+}, {
+  "placeName": "United Kingdom",
+  "location": "United Kingdom",
+  "created": "2009-04-29T19:20:24",
+  "tweets": 2864,
+  "profileName": "Gloss Models",
+  "friends": 262,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-02-10T07:42:56",
+  "tweets": 23,
+  "profileName": "AV Genie",
+  "friends": 371,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-11-27T08:16:55",
+  "tweets": 49,
+  "profileName": "Himanshu",
+  "friends": 1997,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-01-25T18:42:55",
+  "tweets": 1117,
+  "profileName": "Rachel Head",
+  "friends": 1276,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2012-01-11T10:17:32",
+  "tweets": 4809,
+  "profileName": "Harvey Nichols",
+  "friends": 496,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Gelderd Rd, Leeds, West Yorkshire LS12, UK",
+  "location": "Geldard Rd, Leeds, LS12 6NY",
+  "created": "2015-01-06T14:38:23",
+  "tweets": 140,
+  "profileName": "ALNO Store Leeds",
+  "friends": 642,
+  "geo": false,
+  "coordinates": [53.7797069, -1.5812695]
+}, {
+  "placeName": "No Location",
+  "location": "Paris, France",
+  "created": "2013-02-20T14:31:15",
+  "tweets": 165,
+  "profileName": "SkiniPlay",
+  "friends": 68,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Huddersfield, West Yorkshire, UK",
+  "location": "Huddersfield, England",
+  "created": "2012-01-23T13:01:46",
+  "tweets": 1,
+  "profileName": "Andrew Garrety",
+  "friends": 54,
+  "geo": true,
+  "coordinates": [53.645792, -1.785035]
+}, {
+  "placeName": "Worsley, UK",
+  "location": "Worsley",
+  "created": "2012-01-23T22:02:48",
+  "tweets": 3061,
+  "profileName": "Debbie",
+  "friends": 883,
+  "geo": false,
+  "coordinates": [53.50754, -2.391199]
+}, {
+  "placeName": "London, UK",
+  "location": "london\n",
+  "created": "2011-05-18T18:33:25",
+  "tweets": 17071,
+  "profileName": "Neil Vincent",
+  "friends": 1839,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "Manchester, UK",
+  "location": "manchester",
+  "created": "2011-07-21T21:14:35",
+  "tweets": 832,
+  "profileName": "jonathan gray",
+  "friends": 1396,
+  "geo": true,
+  "coordinates": [53.4807593, -2.2426305]
+}, {
+  "placeName": "United Kingdom",
+  "location": "North and North East - UK",
+  "created": "2014-03-02T16:06:39",
+  "tweets": 40,
+  "profileName": "Carol Wood",
+  "friends": 2599,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Manchester, UK",
+  "location": "Manchester, UK",
+  "created": "2010-04-08T11:56:21",
+  "tweets": 33649,
+  "profileName": "Peter Istrate",
+  "friends": 18204,
+  "geo": true,
+  "coordinates": [53.4807593, -2.2426305]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-07-10T23:20:31",
+  "tweets": 303,
+  "profileName": "marco lorenzo",
+  "friends": 261,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "Leeds \u2022 Manchester \u2022 HUY",
+  "created": "2014-01-24T18:41:58",
+  "tweets": 45,
+  "profileName": "ETS",
+  "friends": 1963,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "New Jersey, USA",
+  "location": "New Jersey",
+  "created": "2009-03-14T00:51:24",
+  "tweets": 120,
+  "profileName": "Maurice Paredes",
+  "friends": 316,
+  "geo": false,
+  "coordinates": [40.0583238, -74.4056612]
+}, {
+  "placeName": "Canterbury, Canterbury, Kent, UK",
+  "location": "Canterbury",
+  "created": "2013-04-17T15:02:01",
+  "tweets": 102,
+  "profileName": "Sound Integration",
+  "friends": 885,
+  "geo": false,
+  "coordinates": [51.280233, 1.0789089]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-01-25T19:22:34",
+  "tweets": 19,
+  "profileName": "PortableChimp",
+  "friends": 305,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "New York, NY, USA",
+  "location": "New York (US), Swindon (UK)",
+  "created": "2009-09-22T16:06:05",
+  "tweets": 714,
+  "profileName": "WyreStorm",
+  "friends": 266,
+  "geo": true,
+  "coordinates": [40.7127837, -74.0059413]
+}, {
+  "placeName": "Manchester, UK",
+  "location": "Manchester",
+  "created": "2013-10-26T09:13:45",
+  "tweets": 3114,
+  "profileName": "Hd-UltraTech",
+  "friends": 2755,
+  "geo": false,
+  "coordinates": [53.4807593, -2.2426305]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-09-27T15:30:47",
+  "tweets": 89,
+  "profileName": "Will Vaughan-Payne",
+  "friends": 130,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2010-08-20T08:06:42",
+  "tweets": 1078,
+  "profileName": "Finite Solutions",
+  "friends": 1437,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-06-14T15:33:52",
+  "tweets": 393,
+  "profileName": "Desmond and sons",
+  "friends": 2056,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Heathrow Airport (LHR), Longford, Hounslow, Greater London TW6, UK",
+  "location": "Based near London Heathrow",
+  "created": "2012-02-24T23:09:33",
+  "tweets": 570,
+  "profileName": "CTS logistics",
+  "friends": 1966,
+  "geo": false,
+  "coordinates": [51.4700223, -0.4542955]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2015-01-08T14:33:35",
+  "tweets": 9,
+  "profileName": "Precious Stone",
+  "friends": 185,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Oslo, Norway",
+  "location": "Oslo, Norway",
+  "created": "2014-10-07T11:19:50",
+  "tweets": 108,
+  "profileName": "Smarthuset AS",
+  "friends": 785,
+  "geo": true,
+  "coordinates": [59.9138688, 10.7522454]
+}, {
+  "placeName": "K & N International, 3 Croydon Rd, Beckenham, Greater London BR3 4AA, UK",
+  "location": "UK & Overseas",
+  "created": "2013-02-09T13:59:00",
+  "tweets": 28385,
+  "profileName": "#LiveInstall",
+  "friends": 3876,
+  "geo": true,
+  "coordinates": [51.3966971, -0.0482118]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-03-24T18:07:51",
+  "tweets": 10,
+  "profileName": "Graham Broomfield ",
+  "friends": 18,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Telford, Telford and Wrekin, UK",
+  "location": "Telford, Shropshire, UK",
+  "created": "2011-12-20T11:26:04",
+  "tweets": 9780,
+  "profileName": "Hager Ltd.",
+  "friends": 2725,
+  "geo": false,
+  "coordinates": [52.678419, -2.445258]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-07-16T16:19:15",
+  "tweets": 32,
+  "profileName": "Bob Dawson",
+  "friends": 342,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Brisbane QLD, Australia",
+  "location": "Brisbane",
+  "created": "2011-10-13T11:19:27",
+  "tweets": 734,
+  "profileName": "ET Technical Service",
+  "friends": 80,
+  "geo": true,
+  "coordinates": [-27.4710107, 153.0234489]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-12-23T11:08:51",
+  "tweets": 0,
+  "profileName": "gerard",
+  "friends": 1139,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Chennai, Tamil Nadu, India",
+  "location": "chennai",
+  "created": "2012-07-08T12:48:50",
+  "tweets": 89,
+  "profileName": "Ocher LV Solutions",
+  "friends": 103,
+  "geo": true,
+  "coordinates": [13.0826802, 80.2707184]
+}, {
+  "placeName": "Shenzhen, Guangdong, China",
+  "location": "Shenzhen, China.",
+  "created": "2014-05-21T06:18:54",
+  "tweets": 12,
+  "profileName": "Duncan Wong",
+  "friends": 918,
+  "geo": false,
+  "coordinates": [22.543099, 114.057868]
+}, {
+  "placeName": "Worldwide House, Thorpe Wood, Peterborough, Peterborough PE3 6SB, UK",
+  "location": "Worldwide",
+  "created": "2014-03-24T11:56:02",
+  "tweets": 1063,
+  "profileName": "LogoedTees",
+  "friends": 68605,
+  "geo": false,
+  "coordinates": [52.57083129999999, -0.3006158]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-01-13T23:51:26",
+  "tweets": 13165,
+  "profileName": "Home Cinema Tv Video",
+  "friends": 1638,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "London House, 100 New King's Rd, Fulham, London SW6 4LX, UK",
+  "location": "SW6, London. 02077366007",
+  "created": "2012-11-19T09:36:56",
+  "tweets": 1306,
+  "profileName": "Inspired Dwellings",
+  "friends": 2411,
+  "geo": true,
+  "coordinates": [51.4723272, -0.2035538]
+}, {
+  "placeName": "Mirfield, West Yorkshire, UK",
+  "location": "Mirfield",
+  "created": "2013-10-14T22:04:10",
+  "tweets": 170,
+  "profileName": "Orange Design Studio",
+  "friends": 240,
+  "geo": false,
+  "coordinates": [53.680122, -1.696713]
+}, {
+  "placeName": "England, UK",
+  "location": "England, United Kingdom",
+  "created": "2009-03-07T16:23:58",
+  "tweets": 19,
+  "profileName": "Transcriptors Ltd",
+  "friends": 2210,
+  "geo": false,
+  "coordinates": [52.3555177, -1.1743197]
+}, {
+  "placeName": "Milton Keynes, Milton Keynes, Milton Keynes, UK",
+  "location": "Milton Keynes",
+  "created": "2014-09-18T14:48:14",
+  "tweets": 9,
+  "profileName": "AV Network",
+  "friends": 1245,
+  "geo": false,
+  "coordinates": [52.0406224, -0.7594171]
+}, {
+  "placeName": "Barnsley, South Yorkshire, UK",
+  "location": "Barnsley UK",
+  "created": "2013-01-24T13:08:30",
+  "tweets": 1082,
+  "profileName": "Abode Home Products",
+  "friends": 2559,
+  "geo": false,
+  "coordinates": [53.55263, -1.479726]
+}, {
+  "placeName": "No Location",
+  "location": "Thirsk...and Kalkan",
+  "created": "2011-05-19T23:17:45",
+  "tweets": 8108,
+  "profileName": "Peter Phelan",
+  "friends": 1664,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-11-16T08:04:52",
+  "tweets": 8130,
+  "profileName": "aCar",
+  "friends": 1907,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "21 Hanover Square, Mayfair, London W1S 1JW, UK",
+  "location": "21 Hanover Square, London, W1S",
+  "created": "2014-11-19T12:36:33",
+  "tweets": 128,
+  "profileName": "B&O Hanover Square",
+  "friends": 96,
+  "geo": true,
+  "coordinates": [51.513595, -0.1443761]
+}, {
+  "placeName": "London, UK",
+  "location": "London",
+  "created": "2011-04-29T07:52:03",
+  "tweets": 8255,
+  "profileName": "David Slater",
+  "friends": 2914,
+  "geo": true,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "London, UK",
+  "location": "London, England",
+  "created": "2013-09-28T10:42:58",
+  "tweets": 2,
+  "profileName": "Alex Smith",
+  "friends": 1979,
+  "geo": true,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, England",
+  "created": "2009-06-30T11:24:49",
+  "tweets": 161,
+  "profileName": "Kirsty J Broomfield",
+  "friends": 161,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Wakefield, West Yorkshire, UK",
+  "location": "NatWest Wakefield",
+  "created": "2014-11-03T14:34:43",
+  "tweets": 201,
+  "profileName": "Darrell Furze",
+  "friends": 143,
+  "geo": false,
+  "coordinates": [53.683298, -1.505924]
+}, {
+  "placeName": "Yorkshire St, Rochdale, Rochdale OL16 2DW, UK",
+  "location": "Yorkshire, UK",
+  "created": "2009-03-19T10:14:05",
+  "tweets": 7275,
+  "profileName": "JCT600",
+  "friends": 1873,
+  "geo": false,
+  "coordinates": [53.6204416, -2.1525678]
+}, {
+  "placeName": "Bellville, Cape Town, South Africa",
+  "location": "Bellville",
+  "created": "2014-11-14T06:38:37",
+  "tweets": 1,
+  "profileName": "Martin visser",
+  "friends": 10,
+  "geo": true,
+  "coordinates": [-33.8942695, 18.6294384]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-05-30T20:56:24",
+  "tweets": 2373,
+  "profileName": "Design House Project",
+  "friends": 3605,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "North Yorkshire, UK",
+  "location": "North Yorkshire",
+  "created": "2012-09-05T20:28:05",
+  "tweets": 22,
+  "profileName": "Friends4Dinner",
+  "friends": 66,
+  "geo": false,
+  "coordinates": [53.9915028, -1.5412015]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2013-03-03T20:14:53",
+  "tweets": 168,
+  "profileName": "GARETH BETTS",
+  "friends": 253,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Yorkshire, VA, USA",
+  "location": "Yorkshire",
+  "created": "2011-01-06T10:45:05",
+  "tweets": 51333,
+  "profileName": "Brand Yorkshire",
+  "friends": 38031,
+  "geo": false,
+  "coordinates": [38.7931699, -77.44776619999999]
+}, {
+  "placeName": "United States",
+  "location": "United States",
+  "created": "2013-11-24T05:55:39",
+  "tweets": 1311,
+  "profileName": "Ferrari or Lambo",
+  "friends": 16854,
+  "geo": false,
+  "coordinates": [37.09024, -95.712891]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-05-23T19:11:07",
+  "tweets": 15,
+  "profileName": "David Stanford",
+  "friends": 132,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2009-03-04T12:17:07",
+  "tweets": 245,
+  "profileName": "Jennifer",
+  "friends": 299,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-11-13T16:19:50",
+  "tweets": 3,
+  "profileName": "Tracey Visser",
+  "friends": 22,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK",
+  "created": "2012-04-10T13:22:38",
+  "tweets": 831,
+  "profileName": "Simon Falk Eyecare",
+  "friends": 585,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "Yorkshire & beyond",
+  "created": "2011-09-12T16:38:06",
+  "tweets": 16591,
+  "profileName": "Signature Flooring",
+  "friends": 4538,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "82 Street Ln, Leeds, West Yorkshire LS8 2AL, UK",
+  "location": "82 Street Lane, Leeds, LS8 2AL",
+  "created": "2012-12-12T16:42:03",
+  "tweets": 248,
+  "profileName": "Hunters North Leeds",
+  "friends": 545,
+  "geo": true,
+  "coordinates": [53.84491620000001, -1.5105678]
+}, {
+  "placeName": "Maidenhead, Windsor and Maidenhead, UK",
+  "location": "Maidenhead, UK",
+  "created": "2012-03-19T18:23:49",
+  "tweets": 657,
+  "profileName": "AV Rackbuild&Install",
+  "friends": 1140,
+  "geo": false,
+  "coordinates": [51.522414, -0.7219]
+}, {
+  "placeName": "Doncaster, Doncaster, South Yorkshire, UK",
+  "location": "Doncaster",
+  "created": "2012-01-13T15:37:17",
+  "tweets": 218,
+  "profileName": "Tony Emmett",
+  "friends": 91,
+  "geo": true,
+  "coordinates": [53.52282, -1.128462]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-03-05T19:10:53",
+  "tweets": 181,
+  "profileName": "Scott Harrison",
+  "friends": 249,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "iKBBI Registered 01757 269386",
+  "created": "2014-02-04T18:29:03",
+  "tweets": 1901,
+  "profileName": "Holmes INSTALLATIONS",
+  "friends": 824,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-01-07T23:09:18",
+  "tweets": 150,
+  "profileName": "Phil Broomfield",
+  "friends": 4034,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds ",
+  "created": "2014-04-10T15:47:31",
+  "tweets": 174,
+  "profileName": "Unique Fitness UK",
+  "friends": 1958,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2011-04-05T11:45:31",
+  "tweets": 745,
+  "profileName": "Anthem AV Solutions",
+  "friends": 1949,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Essex, UK",
+  "location": "Essex / Herts / London",
+  "created": "2013-07-24T17:54:33",
+  "tweets": 1041,
+  "profileName": "Stortford Audio",
+  "friends": 912,
+  "geo": true,
+  "coordinates": [51.7659078, 0.6673665]
+}, {
+  "placeName": "Wakefield, West Yorkshire, UK",
+  "location": "Wakefield, West Yorkshire",
+  "created": "2012-02-28T11:47:36",
+  "tweets": 603,
+  "profileName": "Glass and Mirror Tec",
+  "friends": 1308,
+  "geo": false,
+  "coordinates": [53.683298, -1.505924]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-09-08T15:36:46",
+  "tweets": 286,
+  "profileName": "Helen Bailey",
+  "friends": 764,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "47 Queen St, Derby, Derby DE1 3DE, UK",
+  "location": "47 Queen Stree, Derby, DE1 3DE",
+  "created": "2013-02-19T12:27:53",
+  "tweets": 146,
+  "profileName": "Bang & Olufsen Derby",
+  "friends": 222,
+  "geo": true,
+  "coordinates": [52.9252383, -1.4783044]
+}, {
+  "placeName": "Chicago, IL, USA",
+  "location": "Chicago, IL USA",
+  "created": "2009-04-30T14:32:23",
+  "tweets": 4385,
+  "profileName": "IALD",
+  "friends": 897,
+  "geo": true,
+  "coordinates": [41.8781136, -87.6297982]
+}, {
+  "placeName": "United States",
+  "location": "United States",
+  "created": "2010-05-20T11:49:41",
+  "tweets": 100,
+  "profileName": "Ray Meiring",
+  "friends": 119,
+  "geo": true,
+  "coordinates": [37.09024, -95.712891]
+}, {
+  "placeName": "Street Ln, Leeds, Leeds, Leeds LS8, UK",
+  "location": "Street Lane, Leeds",
+  "created": "2014-09-25T08:28:15",
+  "tweets": 58,
+  "profileName": "Richard Oliver",
+  "friends": 1533,
+  "geo": false,
+  "coordinates": [53.844321, -1.5246394]
+}, {
+  "placeName": "No Location",
+  "location": "SCF 4-5, Phase XI, Mohali",
+  "created": "2012-11-14T10:19:37",
+  "tweets": 88,
+  "profileName": "Galaxy HiFi",
+  "friends": 383,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "West Yorkshire, UK",
+  "location": "West Yorkshire, UK",
+  "created": "2009-02-24T09:36:15",
+  "tweets": 119,
+  "profileName": "TechVision",
+  "friends": 842,
+  "geo": false,
+  "coordinates": [53.81081760000001, -1.76261]
+}, {
+  "placeName": "Milton Keynes, Milton Keynes, Milton Keynes, UK",
+  "location": "Milton Keynes",
+  "created": "2014-09-18T12:36:32",
+  "tweets": 100,
+  "profileName": "Purchase AV",
+  "friends": 886,
+  "geo": false,
+  "coordinates": [52.0406224, -0.7594171]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-05-23T14:08:02",
+  "tweets": 170,
+  "profileName": "Marc Raymond",
+  "friends": 85,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-03-25T07:17:54",
+  "tweets": 226,
+  "profileName": "JPC - Rueil",
+  "friends": 497,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-11-17T12:29:55",
+  "tweets": 1,
+  "profileName": "Sheenah Benn",
+  "friends": 16,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-12-05T17:03:07",
+  "tweets": 6,
+  "profileName": "dave dow",
+  "friends": 5,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-10-20T18:37:37",
+  "tweets": 2444,
+  "profileName": "Nick",
+  "friends": 561,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "No Location",
+  "location": "ardai@sbcglobal. net",
+  "created": "2014-03-20T00:41:29",
+  "tweets": 996,
+  "profileName": "Zsolt Ardai",
+  "friends": 1990,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "York, York, York, UK",
+  "location": "York",
+  "created": "2011-09-21T23:34:55",
+  "tweets": 153,
+  "profileName": "Wall Of Sound",
+  "friends": 285,
+  "geo": true,
+  "coordinates": [53.95996510000001, -1.0872979]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2010-06-24T10:03:55",
+  "tweets": 413,
+  "profileName": "Emmanuel Gorand",
+  "friends": 185,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Malton, Malton, North Yorkshire YO17, UK",
+  "location": "Malton, North Yorkshire, UK",
+  "created": "2013-04-28T09:16:02",
+  "tweets": 36,
+  "profileName": "Jason Wiggins",
+  "friends": 80,
+  "geo": true,
+  "coordinates": [54.136836, -0.7978970000000001]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-11-29T00:46:22",
+  "tweets": 131,
+  "profileName": "Caleb Folan",
+  "friends": 16,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-09-23T08:56:23",
+  "tweets": 24,
+  "profileName": "Used Bang & Olufsen",
+  "friends": 688,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "Doncaster, South Yorkshire",
+  "created": "2013-01-14T20:43:59",
+  "tweets": 2268,
+  "profileName": "Stephen.D.Davis",
+  "friends": 483,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Canterbury, Canterbury, Kent, UK",
+  "location": "Canterbury, Kent",
+  "created": "2011-07-11T09:15:21",
+  "tweets": 573,
+  "profileName": "B&O Canterbury",
+  "friends": 1159,
+  "geo": false,
+  "coordinates": [51.280233, 1.0789089]
+}, {
+  "placeName": "Holmfirth, Holmfirth, West Yorkshire HD9, UK",
+  "location": "Holmfirth, Yorkshire, England",
+  "created": "2014-09-17T20:58:54",
+  "tweets": 1,
+  "profileName": "We Sell Stuff",
+  "friends": 27,
+  "geo": false,
+  "coordinates": [53.571744, -1.786292]
+}, {
+  "placeName": "Pittsburgh, PA, USA",
+  "location": "Pittsburgh, PA",
+  "created": "2014-07-22T18:03:09",
+  "tweets": 1400,
+  "profileName": "PowerHouse Alliance",
+  "friends": 1095,
+  "geo": true,
+  "coordinates": [40.44062479999999, -79.9958864]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2014-09-04T22:02:59",
+  "tweets": 0,
+  "profileName": "ccphysio",
+  "friends": 78,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2011-07-18T22:05:38",
+  "tweets": 155,
+  "profileName": "Tom Buxton",
+  "friends": 140,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "England, UK",
+  "location": "England UK",
+  "created": "2012-11-04T10:20:16",
+  "tweets": 414,
+  "profileName": "Sun-Light Solutions",
+  "friends": 1196,
+  "geo": true,
+  "coordinates": [52.3555177, -1.1743197]
+}, {
+  "placeName": "No Location",
+  "location": "Pulse HQ - Stansted",
+  "created": "2012-09-26T07:23:50",
+  "tweets": 1988,
+  "profileName": "Pulse Cinemas",
+  "friends": 927,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Humber Bridge, Hessle, East Riding of Yorkshire HU13, UK",
+  "location": "North Yorkshire and the Humber",
+  "created": "2014-02-27T10:49:40",
+  "tweets": 14,
+  "profileName": "Metcom Cleaning",
+  "friends": 65,
+  "geo": false,
+  "coordinates": [53.7201173, -0.4518752]
+}, {
+  "placeName": "United Kingdom",
+  "location": "United Kingdom",
+  "created": "2014-07-24T11:25:28",
+  "tweets": 1971,
+  "profileName": "A Country Lady",
+  "friends": 2113,
+  "geo": false,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Staffordshire, UK",
+  "location": "Staffordshire",
+  "created": "2012-02-12T14:22:26",
+  "tweets": 421,
+  "profileName": "Big Brother Systems ",
+  "friends": 1955,
+  "geo": true,
+  "coordinates": [52.8792745, -2.0571868]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds, UK",
+  "created": "2011-02-06T23:10:03",
+  "tweets": 1329,
+  "profileName": "Mark@CCTVdirect",
+  "friends": 769,
+  "geo": false,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "Taiwan",
+  "location": "Taiwan",
+  "created": "2010-03-19T04:22:31",
+  "tweets": 1621,
+  "profileName": "Kim Donvig",
+  "friends": 2041,
+  "geo": true,
+  "coordinates": [23.69781, 120.960515]
+}, {
+  "placeName": "United Kingdom",
+  "location": "United Kingdom",
+  "created": "2014-01-03T22:46:43",
+  "tweets": 1182,
+  "profileName": "Moxels",
+  "friends": 1371,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "St Neots, Saint Neots, Cambridgeshire PE19, UK",
+  "location": "St.Neots",
+  "created": "2014-07-18T10:52:46",
+  "tweets": 316,
+  "profileName": "Alexandra Brownhill",
+  "friends": 1079,
+  "geo": false,
+  "coordinates": [52.2300836, -0.265103]
+}, {
+  "placeName": "Salt Lake City, UT, USA",
+  "location": "Salt Lake City, Utah",
+  "created": "2009-01-09T05:17:29",
+  "tweets": 14549,
+  "profileName": "Control4",
+  "friends": 6713,
+  "geo": false,
+  "coordinates": [40.7607793, -111.8910474]
+}, {
+  "placeName": "London, UK",
+  "location": "London / info@plasmapro.co.uk",
+  "created": "2012-11-15T18:01:07",
+  "tweets": 989,
+  "profileName": "PlasmaPro",
+  "friends": 1673,
+  "geo": false,
+  "coordinates": [51.5073509, -0.1277583]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2010-08-23T10:23:03",
+  "tweets": 1370,
+  "profileName": "Neil Davidson",
+  "friends": 1324,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "Milton Keynes, Milton Keynes, Milton Keynes, UK",
+  "location": "Milton Keynes",
+  "created": "2013-04-08T15:04:31",
+  "tweets": 89,
+  "profileName": "Wendy Ficken",
+  "friends": 570,
+  "geo": false,
+  "coordinates": [52.0406224, -0.7594171]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-08-26T16:01:13",
+  "tweets": 17,
+  "profileName": "Anthony Bolte",
+  "friends": 347,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Worldwide House, Thorpe Wood, Peterborough, Peterborough PE3 6SB, UK",
+  "location": "Worldwide",
+  "created": "2008-02-17T09:11:17",
+  "tweets": 200,
+  "profileName": "Andy Haslam",
+  "friends": 891,
+  "geo": true,
+  "coordinates": [52.57083129999999, -0.3006158]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2009-02-18T10:54:11",
+  "tweets": 3481,
+  "profileName": "Jason Girardier",
+  "friends": 460,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "UK, Europe, Africa, India + ",
+  "created": "2009-04-01T09:52:29",
+  "tweets": 9252,
+  "profileName": "CEDIA EMEA",
+  "friends": 2744,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Chelmsford, Essex, UK",
+  "location": "Chelmsford, Essex",
+  "created": "2009-02-07T16:30:50",
+  "tweets": 3613,
+  "profileName": "Artcoustic UK",
+  "friends": 2499,
+  "geo": true,
+  "coordinates": [51.7355868, 0.4685497]
+}, {
+  "placeName": "No Location",
+  "location": "01423 323980",
+  "created": "2013-09-10T11:57:41",
+  "tweets": 1465,
+  "profileName": "Grantham Arms",
+  "friends": 1985,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2010-03-11T12:51:35",
+  "tweets": 3557,
+  "profileName": "Audio-Technica",
+  "friends": 1753,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "United Kingdom",
+  "location": "UK",
+  "created": "2010-05-19T22:30:16",
+  "tweets": 2818,
+  "profileName": "Joe // \u5eb7\u4e54",
+  "friends": 297,
+  "geo": true,
+  "coordinates": [55.378051, -3.435973]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-11-18T02:59:48",
+  "tweets": 94,
+  "profileName": "Mitchell & Johnson",
+  "friends": 1490,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Hungerford, Hungerford, West Berkshire RG17, UK",
+  "location": "Hungerford, Berkshire",
+  "created": "2014-04-24T14:45:18",
+  "tweets": 387,
+  "profileName": "SavantSystemsEurope",
+  "friends": 339,
+  "geo": false,
+  "coordinates": [51.41234499999999, -1.517995]
+}, {
+  "placeName": "Forum Dr, Raleigh, NC 27615, USA",
+  "location": "08005593788 #Midlands info@",
+  "created": "2013-01-06T03:46:01",
+  "tweets": 4527,
+  "profileName": "PaulWright \u039bVICCI\u30c4",
+  "friends": 1113,
+  "geo": false,
+  "coordinates": [35.8972459, -78.6569193]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2013-11-25T09:24:06",
+  "tweets": 92,
+  "profileName": "Metcom Audio Visual",
+  "friends": 188,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Leeds, West Yorkshire, UK",
+  "location": "Leeds",
+  "created": "2013-12-16T14:19:44",
+  "tweets": 942,
+  "profileName": "Grid Thirteen",
+  "friends": 1056,
+  "geo": true,
+  "coordinates": [53.8007554, -1.5490774]
+}, {
+  "placeName": "London Rd, South Milford, Leeds, North Yorkshire LS25 5DP, UK",
+  "location": "Leeds, London, UK",
+  "created": "2014-03-14T11:17:31",
+  "tweets": 590,
+  "profileName": "Microsite Avenue",
+  "friends": 1270,
+  "geo": false,
+  "coordinates": [53.7730148, -1.2496171]
+}, {
+  "placeName": "West Yorkshire, UK",
+  "location": "West Yorkshire, England",
+  "created": "2011-10-06T09:28:20",
+  "tweets": 292,
+  "profileName": "SEO In Leeds",
+  "friends": 1476,
+  "geo": false,
+  "coordinates": [53.81081760000001, -1.76261]
+}, {
+  "placeName": "York, York, York, UK",
+  "location": "York",
+  "created": "2011-10-20T19:36:29",
+  "tweets": 830,
+  "profileName": "York Ladies Circle",
+  "friends": 1582,
+  "geo": true,
+  "coordinates": [53.95996510000001, -1.0872979]
+}, {
+  "placeName": "Tenterden, Kent, UK",
+  "location": "Tenterden, Kent",
+  "created": "2013-06-04T08:30:52",
+  "tweets": 227,
+  "profileName": "B&O Tenterden",
+  "friends": 705,
+  "geo": false,
+  "coordinates": [51.069358, 0.689122]
+}, {
+  "placeName": "Bradford, West Yorkshire, UK",
+  "location": "Bradford, UK",
+  "created": "2009-04-15T16:45:34",
+  "tweets": 1443,
+  "profileName": "Sir Richard 25",
+  "friends": 521,
+  "geo": true,
+  "coordinates": [53.795984, -1.759398]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2011-05-16T17:08:42",
+  "tweets": 1625,
+  "profileName": "Christopher Harrison",
+  "friends": 1201,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Chichester, Chichester, West Sussex, UK",
+  "location": "Chichester",
+  "created": "2012-08-16T12:51:53",
+  "tweets": 1,
+  "profileName": "Luxury AV",
+  "friends": 752,
+  "geo": false,
+  "coordinates": [50.83761000000001, -0.774936]
+}, {
+  "placeName": "No Location",
+  "location": "M\u00fcnchen, Bayern",
+  "created": "2011-06-22T10:16:19",
+  "tweets": 271,
+  "profileName": "Arend Niebuhr",
+  "friends": 389,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Keighley, Keighley, West Yorkshire, UK",
+  "location": "Keighley",
+  "created": "2011-11-08T20:33:15",
+  "tweets": 730,
+  "profileName": "Airedale Opticians",
+  "friends": 568,
+  "geo": true,
+  "coordinates": [53.867795, -1.912358]
+}, {
+  "placeName": "No Location",
+  "location": "Hertfordshire & Worldwide",
+  "created": "2012-10-27T13:18:03",
+  "tweets": 33,
+  "profileName": "WiFi-Wizards",
+  "friends": 637,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "No Location",
+  "location": "Online and across the UK",
+  "created": "2010-03-11T12:31:33",
+  "tweets": 3083,
+  "profileName": "Berry's Jewellers",
+  "friends": 722,
+  "geo": true,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Europe",
+  "location": "Europe",
+  "created": "2012-06-16T16:23:56",
+  "tweets": 768,
+  "profileName": "Kevin Norton",
+  "friends": 7887,
+  "geo": false,
+  "coordinates": [54.5259614, 15.2551187]
+}, {
+  "placeName": "Usa Hair & Beauty Supply, 62 Norwood High St, West Norwood, London SE27 9NW, UK",
+  "location": "UK & USA",
+  "created": "2009-01-24T17:38:40",
+  "tweets": 750,
+  "profileName": "Pro Audio Stash",
+  "friends": 1517,
+  "geo": true,
+  "coordinates": [51.4297747, -0.1016288]
+}, {
+  "placeName": "Leicester, UK",
+  "location": "Leicester",
+  "created": "2012-05-16T10:53:48",
+  "tweets": 42,
+  "profileName": "B&O Leicester",
+  "friends": 72,
+  "geo": false,
+  "coordinates": [52.6368778, -1.1397592]
+}, {
+  "placeName": "No Location",
+  "location": "All over the UK & Europe",
+  "created": "2012-02-10T20:46:33",
+  "tweets": 682,
+  "profileName": "stephen lee",
+  "friends": 552,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "York, York, York, UK",
+  "location": "York",
+  "created": "2010-12-14T17:27:23",
+  "tweets": 516,
+  "profileName": "Gary Scott",
+  "friends": 1976,
+  "geo": true,
+  "coordinates": [53.95996510000001, -1.0872979]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2012-04-28T11:44:04",
+  "tweets": 2,
+  "profileName": "rashidherrat",
+  "friends": 39,
+  "geo": false,
+  "coordinates": [0, 0]
+}, {
+  "placeName": "Geel, Belgium",
+  "location": "Geel, Belgium",
+  "created": "2012-03-02T09:42:54",
+  "tweets": 15,
+  "profileName": "Bang & olufsen store",
+  "friends": 86,
+  "geo": false,
+  "coordinates": [51.16257, 4.990839999999999]
+}, {
+  "placeName": "Yorkshire, VA, USA",
+  "location": "Yorkshire",
+  "created": "2009-02-24T09:31:23",
+  "tweets": 5447,
+  "profileName": "The Met Club",
+  "friends": 5445,
+  "geo": true,
+  "coordinates": [38.7931699, -77.44776619999999]
+}, {
+  "placeName": "6 Blossom St, York, York YO24, UK",
+  "location": "6 Blossom Street, York",
+  "created": "2011-02-04T17:42:38",
+  "tweets": 452,
+  "profileName": "Plaskitt & Plaskitt",
+  "friends": 79,
+  "geo": false,
+  "coordinates": [53.9557807, -1.0912231]
+}, {
+  "placeName": "No Location",
+  "location": "",
+  "created": "2009-05-05T21:25:02",
+  "tweets": 49,
+  "profileName": "Richard Staples",
+  "friends": 128,
+  "geo": true,
+  "coordinates": [0, 0]
+}]}

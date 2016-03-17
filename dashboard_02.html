@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <title>Twitter Profile Visualisation</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/dc/1.7.5/dc.min.css" />
+    <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+    <link rel="stylesheet" type="text/css" href="keen-dashboards.css" />
+</head>
+<body class="application">
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">Results Dashboard</a>
+      </div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav navbar-left">
+        </ul>
+      </div>
+    </div>
+  </div>
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-xs-12 dc-data-count dc-chart" id="data-count">
+      <h2>Tweets from Twitter Profile Followers ...
+        <small>
+          <span class="filter-count"></span> selected out of <span class="total-count"></span> records |
+           <a id="all" href="#">Reset All</a>
+          </span>
+        </small>
+      </h2>
+    </div>
+  </div>
+  <div class="row" id="control-row">
+
+    <div class="col-xs-3">
+      <div class="chart-wrapper">
+        <div class="chart-title">
+            <h4>Year <small><a id="year">reset</a></small></h4>
+        </div>
+        <div class="dc-chart" id="chart-ring-year"></div>
+        <div class="chart-notes">
+          Filter Accounts by Year Created
+        </div>
+        </div>
+    </div>
+
+    <div class="col-xs-3">
+      <div class="chart-wrapper">
+        <div class="chart-title">
+            <h4>Month <small><a id="month">reset</a></small></h4>
+        </div>
+        <div class="dc-chart" id="chart-ring-month"></div>
+        <div class="chart-notes">
+          Filter Accounts by Month Created
+        </div>
+        </div>
+    </div>
+
+
+    <div class="col-xs-6">
+      <div class="chart-wrapper">
+      <div class="chart-title">
+        <h4>Account Locations</h4>
+      </div>
+      <div id="map"></div>
+      <div class="chart-notes">
+        Location of Twitter Accounts
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+  <div class="row">
+    <div class="col-xs-4 col-md-4">
+      <div class="chart-wrapper">
+        <div class="chart-title">
+          Geo Enabled
+        </div>
+        <div class="chart-stage">
+          <div id="chart-geo-count">
+          </div>
+        </div>
+        <div class="chart-notes">
+          Total Number of Geo Enabled Accounts
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-4 col-md-4">
+      <div class="chart-wrapper">
+        <div class="chart-title">
+          Total Friends
+        </div>
+        <div class="chart-stage">
+          <div id="chart-friends-count">
+          </div>
+        </div>
+        <div class="chart-notes">
+          Total Number of Friends from Accounts
+        </div>
+      </div>
+    </div>
+
+    <div class="col-xs-4 col-md-4">
+      <div class="chart-wrapper">
+        <div class="chart-title">
+          Total Tweets
+        </div>
+        <div class="chart-stage">
+          <div id="chart-tweets-count">
+          </div>
+        </div>
+        <div class="chart-notes">
+          Total Number of Tweets from Accounts
+        </div>
+      </div>
+    </div>
+
+
+
+  </div>
+  <div class="row">
+    <div class="col-xs-12">
+      <table class="table table-bordered table-striped" id="data-table">
+        <thead>
+          <tr class="header">
+            <th>Profile Name</th>
+            <th>Account Created</th>
+            <th>Geo Enabled</th>
+            <th>Profile Location</th>
+            <th>Tweets</th>
+            <th>Friends</th>
+          </tr>
+        </thead>
+      </table>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.12/d3.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dc/2.0.0-beta.23/dc.js"></script>
+<script type="text/javascript" src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js"></script>
+<script type="text/javascript">
+  var map = L.map('map').setView([53.9599651, -1.0872979], 6);
+  var accountMarkers = new L.FeatureGroup();
+  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png').addTo(map);
+
+  d3.json('cData.json', function(error, data) {
+    var fData = data;
+    var fullDateFormat = d3.time.format('%Y-%m-%d');
+    var yearFormat = d3.time.format('%Y');
+    var monthFormat = d3.time.format('%m');
+    // normalize/parse data so dc can correctly sort & bin them
+    _.each(fData, function(d) {
+      d.dt = fullDateFormat.parse(d.created.split("T")[0]);
+      d.dt_year = +yearFormat(d.dt);
+      d.dt_month = monthFormat(d.dt);
+      d.tweets = +d.tweets;
+      d.friends = +d.friends;
+      d.geo = d.geo === true ? 1 : 0;
+    });
+
+    // set crossfilter
+    var ndx = crossfilter(fData);
+
+    // create dimensions (x-axis values)
+    var yearDim = ndx.dimension(function(d) {
+        return d.dt_year;
+    });
+    var monthDim = ndx.dimension(function(d) {
+        return d.dt_month;
+    });
+    var geoDim = ndx.dimension(function(d) {
+        return d.geo;
+    });
+    var friendsDim = ndx.dimension(function(d) {
+        return d.friends;
+    });
+    var tweetsDim = ndx.dimension(function(d) {
+        return d.tweets;
+    });
+    allDim = ndx.dimension(function(d) {
+        return d;
+    });
+
+    // create groups (y-axis values)
+    var all = ndx.groupAll();
+    var countPerYear = yearDim.group().reduceCount();
+    var countPerMonth = monthDim.group().reduceCount();
+    var countGeo = all.reduceSum(function(d){
+      return d.geo;
+    });
+    var countFriends = all.reduceSum(function(d){
+      return d.friends;
+    });
+    var countTweets = all.reduceSum(function(d){
+      return d.tweets;
+    });
+
+    // specify charts
+    var yearChart = dc.pieChart('#chart-ring-year');
+    var monthChart = dc.pieChart('#chart-ring-month');
+    var geoChart = dc.numberDisplay('#chart-geo-count');
+    var friendsChart = dc.numberDisplay('#chart-friends-count');
+    var tweetsChart = dc.numberDisplay('#chart-tweets-count');
+    var dataCount = dc.dataCount('#data-count');
+    var dataTable = dc.dataTable('#data-table');
+
+    yearChart
+      .dimension(yearDim)
+      .group(countPerYear)
+      .innerRadius(20);
+    monthChart
+      .dimension(monthDim)
+      .group(countPerMonth)
+      .innerRadius(20)
+      .ordering(function(d) {
+        var order = {
+          'Jan': 1,
+          'Feb': 2,
+          'Mar': 3,
+          'Apr': 4,
+          'May': 5,
+          'Jun': 6,
+          'Jul': 7,
+          'Aug': 8,
+          'Sep': 9,
+          'Oct': 10,
+          'Nov': 11,
+          'Dec': 12
+        };
+        return order[d.key];
+      });
+
+      geoChart.formatNumber(d3.format("d"))
+      .valueAccessor(function(d){
+        return d;
+      }).group(countGeo);
+
+      friendsChart.formatNumber(d3.format("d"))
+      .valueAccessor(function(d){
+        return d;
+      }).group(countFriends);
+
+      tweetsChart.formatNumber(d3.format("d"))
+      .valueAccessor(function(d){
+        return d;
+      }).group(countTweets);
+
+    dataCount
+      .dimension(ndx)
+      .group(all);
+    dataTable
+      .dimension(allDim)
+      .group(function(d) {
+        return 'dc.js insists on putting a row here so I remove it using JS';
+      })
+      .size(100)
+      .columns([
+        function(d) {
+          return d.profileName;
+        },
+        function(d) {
+          return d.dt;
+        },
+        function(d) {
+          return d.geo;
+        },
+        function(d) {
+          return d.placeName;
+        },
+        function(d) {
+          return d.tweets;
+        },
+        function(d) {
+          return d.friends;
+        }
+      ])
+      .sortBy(dc.pluck('tweets'))
+      .order(d3.descending)
+      .on('renderlet', function(table) {
+        table.select('tr.dc-table-group').remove();
+        accountMarkers.clearLayers();
+        _.each(allDim.top(Infinity), function(d) {
+          var loc = d.coordinates;
+          var name = d.profileName;
+          var marker = L.marker(loc);
+          marker.bindPopup("<p>" + name + "</p>");
+          accountMarkers.addLayer(marker);
+        });
+        map.addLayer(accountMarkers);
+        map.fitBounds(accountMarkers.getBounds());
+      });
+    // register handlers
+    d3.selectAll('a#all').on('click', function() {
+      dc.filterAll();
+      dc.renderAll();
+    });
+    d3.selectAll('a#year').on('click', function() {
+      yearChart.filterAll();
+      dc.redrawAll();
+    });
+    d3.selectAll('a#month').on('click', function() {
+      monthChart.filterAll();
+      dc.redrawAll();
+    });
+    dc.renderAll();
+  });
+</script>
+</body></html>
